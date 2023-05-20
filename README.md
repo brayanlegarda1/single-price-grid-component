@@ -1,6 +1,6 @@
   <h2>single price grid component Solution</h2>
   <p>
-    <a href="https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub" target="_blank"><strong>Frontend Mentor Challenge</strong></a>
   </p>
 
 ### The challenge
